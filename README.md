@@ -21,7 +21,7 @@ This repository contains a Python script for loading, visualizing, and applying 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/point-cloud-transformation.git
+   git clone https://github.com/mrArray/Point-Cloud-Transformation-and-Visualization-Script
    cd point-cloud-transformation
    ```
 2. Install the required dependencies:
